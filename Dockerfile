@@ -1,4 +1,4 @@
-FROM node:14-buster 
+FROM node:14-bullseye
 MAINTAINER Retric Su <retric@cryptape.com>
 
 COPY godwoken-web3/. /godwoken-web3/.
